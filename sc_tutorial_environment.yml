@@ -1,4 +1,4 @@
-name: sc-tutorial
+name: sc-rna-env
 channels:
  - conda-forge
  - bioconda
